@@ -1,0 +1,31 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.carta{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 6px solid black;
+    width: 224px;
+}
+
+.Alien{
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.supremo{
+    word-break: break-all;
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+}
